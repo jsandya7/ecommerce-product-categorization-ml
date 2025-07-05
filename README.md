@@ -1,2 +1,2 @@
-# ecommerce-product-categorization-ml
+# Product Categorization Using Machine Learning and Lightweight Embeddings for E-Commerce
 This project focuses on multi-class classification of product listings in an e-commerce setting. Leveraging structured metadata and textual attributes (title, description, tags), it implements a hybrid machine learning pipeline combining TF-IDF, MiniLM sentence embeddings, and ensemble models (Logistic Regression, XGBoost, MLP). The final model achieves a weighted F1 score of 0.89 for top category prediction and 0.62 for bottom category classification, with additional insights from embedding visualizations and model comparisons.
